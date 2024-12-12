@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rodrigo Barbosa😁
+## Hi 👋, I'm Rodrigo Barbosa
 
  <div>
    <a href="https://github.com/bsbrodrigo">
@@ -15,7 +15,7 @@
  
 <br>
  
-### Me siga na rede abaixo!
+### Connect with me:
  
 <div> 
   <a href="https://www.linkedin.com/in/rodrigobsb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
